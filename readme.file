@@ -1,0 +1,27 @@
+#  YOUTUBE project
+
+It is a simple utube project with **HTML** and **CSS**. It has a pics.Its just a project of practicing css grid.and css for styling.
+It has a search bar and also a side navbar containg options.
+
+
+---
+
+## Feature
+
+- Search bar
+- navbar(with option)
+
+
+---
+
+## Technologies to use
+- **HTML**   for structure
+- **CSS**    for styling
+
+---
+
+# how to Run 
+Clone this repository
+```bash
+git clone https://github.com/Amnaakhtar1213/youtube.project.git
+
